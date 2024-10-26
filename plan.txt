@@ -1,0 +1,5 @@
+1. Ask user to log in.
+2. Next ask him is he want to put cash or take the cash. "p" to put cash, "t" to take cash
+3. Make a calculation of putting or taking cash.
+4. Print how many is user have after putting or taking cash.
+5. Then say "Have a good day.".
