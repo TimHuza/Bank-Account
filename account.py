@@ -18,7 +18,7 @@ def log_in():
         print("Password must be a number.")
         return False
     
-    if name.lower() == account["account_name"].lower() and password == account["password"]:
+    if name.lower() == account["account_name"] and password == account["password"]:
          print("You loged in to your account✅")
          return True
     else:
